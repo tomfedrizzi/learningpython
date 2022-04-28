@@ -1,0 +1,14 @@
+Aprendiendo las cosas básicas de Python, Learning basic Python things.
+
+#Asignación de variables: 
+"key" = "value"
+variable = valor
+
+Palabras reservadas en Py, no se pueden usar como variable.:
+False - class - finally - is - return
+None - continue - for - lambda - try
+True - def - from - nonlocal - while
+and - del - global - not - with
+as - elif - if - or - yield
+assert - else - import - pass - break
+except - in - raise
